@@ -1,2 +1,2 @@
 # CODING
-New  way of codes or solving problems
+Problem solving and newest codes
